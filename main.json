@@ -1,0 +1,9 @@
+{
+    "id": "85077560-e115-44bf-9fae-11f3652122a2",
+    "name": "Clear Chat",
+    "description": "clears mc chat use .clear",
+    "author": "Streoids",
+    "main_class": "clearchat.lua",
+    "api_revision": 2,
+    "version": "1.0.0"
+}
